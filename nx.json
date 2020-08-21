@@ -28,6 +28,9 @@
     "movie-critic-e2e": {
       "tags": [],
       "implicitDependencies": ["movie-critic"]
+    },
+    "core-http": {
+      "tags": ["scope:core"]
     }
   }
 }

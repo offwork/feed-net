@@ -15,7 +15,9 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@feed-net/core/http": ["libs/core/http/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

@@ -1,0 +1,17 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/.DS_Store": true,
+    "**/coverage": true,
+    "**/.happypack": true
+  },
+  "stylelint.enable": true,
+  "css.validate": false,
+  "scss.validate": false,
+  "stylelint.config": {
+    "extends": "./.stylelintrc.json"
+  },
+  "editor.formatOnSave": false
+}
