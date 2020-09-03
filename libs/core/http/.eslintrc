@@ -1,1 +1,12 @@
-{ "extends": "../../../.eslintrc", "rules": {}, "ignorePatterns": ["!**/*"] }
+{
+  "env": {
+    "browser": true,
+    "commonjs": true,
+    "es6": true,
+    "jest": true,
+    "node": true
+  },
+  "extends": "../../../.eslintrc",
+  "rules": {},
+  "ignorePatterns": ["!**/*"]
+}

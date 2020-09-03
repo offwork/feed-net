@@ -1,1 +1,1 @@
-export * from './lib/core-http';
+export * from './lib/public-api';
