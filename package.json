@@ -81,6 +81,7 @@
     "eslint-config-prettier": "^6.11.0",
     "husky": ">=4",
     "jest": "25.2.3",
+    "jest-marbles": "^2.5.1",
     "jest-preset-angular": "8.1.2",
     "lint-staged": ">=10",
     "prettier": "2.0.4",
